@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "QCgjcfzW8lCUUoNGWWDW26HIH7k=",
+			"path": "github.com/hyperledger/fabric-sdk-go",
+			"revision": "37201e914412e03b048f398ba3cdbf101515f9a3",
+			"revisionTime": "2018-06-22T14:21:15Z"
+		}
+	],
+	"rootPath": "chaoshen.com/gopaillier"
+}
